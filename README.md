@@ -5,6 +5,10 @@
 *An experimental Android project exploring advanced UI interactions with OpenGL-powered magnetic effects*
 
 ---
+## Screenshots
+
+https://github.com/user-attachments/assets/af2b2215-2053-467f-9391-413e6fcc58d4
+
 
 ## Project Overview
 
@@ -133,16 +137,5 @@ The system consists of several key components:
 3. **Attractable Modifier** - Makes any composable element magnetic
 4. **OpenGL Renderer** - Handles advanced visual effects and animations
 5. **AttractionPoint** - Defines magnetic attraction locations
-
-## Learning Outcomes
-
-This project provided hands-on experience with:
-- **Advanced Compose Architecture** - Custom modifiers, layouts, and state management
-- **OpenGL in Android** - Shader programming, texture management, and rendering optimization
-- **Animation Systems** - Custom interpolators, physics simulation, and smooth transitions
-- **Performance Optimization** - Memory management, thread synchronization, and GPU utilization
-- **Complex UI Interactions** - Event handling, gesture detection, and responsive design
-
----
 
 **Built with:** Kotlin 2.0.21, Jetpack Compose, OpenGL ES 3.0, Coroutines
